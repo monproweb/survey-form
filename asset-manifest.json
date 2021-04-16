@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f4a860bf.chunk.css",
-    "main.js": "/static/js/main.5ad58af0.chunk.js",
-    "main.js.map": "/static/js/main.5ad58af0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.026591f5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.026591f5.js.map",
-    "static/js/2.0e34b68a.chunk.js": "/static/js/2.0e34b68a.chunk.js",
-    "static/js/2.0e34b68a.chunk.js.map": "/static/js/2.0e34b68a.chunk.js.map",
-    "static/js/3.5de761a8.chunk.js": "/static/js/3.5de761a8.chunk.js",
-    "static/js/3.5de761a8.chunk.js.map": "/static/js/3.5de761a8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.f4a860bf.chunk.css.map": "/static/css/main.f4a860bf.chunk.css.map",
-    "static/js/2.0e34b68a.chunk.js.LICENSE.txt": "/static/js/2.0e34b68a.chunk.js.LICENSE.txt"
+    "main.css": "/survey-form/static/css/main.f4a860bf.chunk.css",
+    "main.js": "/survey-form/static/js/main.5ad58af0.chunk.js",
+    "main.js.map": "/survey-form/static/js/main.5ad58af0.chunk.js.map",
+    "runtime-main.js": "/survey-form/static/js/runtime-main.bd3a594a.js",
+    "runtime-main.js.map": "/survey-form/static/js/runtime-main.bd3a594a.js.map",
+    "static/js/2.0e34b68a.chunk.js": "/survey-form/static/js/2.0e34b68a.chunk.js",
+    "static/js/2.0e34b68a.chunk.js.map": "/survey-form/static/js/2.0e34b68a.chunk.js.map",
+    "static/js/3.5de761a8.chunk.js": "/survey-form/static/js/3.5de761a8.chunk.js",
+    "static/js/3.5de761a8.chunk.js.map": "/survey-form/static/js/3.5de761a8.chunk.js.map",
+    "index.html": "/survey-form/index.html",
+    "static/css/main.f4a860bf.chunk.css.map": "/survey-form/static/css/main.f4a860bf.chunk.css.map",
+    "static/js/2.0e34b68a.chunk.js.LICENSE.txt": "/survey-form/static/js/2.0e34b68a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.026591f5.js",
+    "static/js/runtime-main.bd3a594a.js",
     "static/js/2.0e34b68a.chunk.js",
     "static/css/main.f4a860bf.chunk.css",
     "static/js/main.5ad58af0.chunk.js"
